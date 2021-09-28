@@ -1,0 +1,2 @@
+hCircle(uniqueId=0, name='The Fellowship of the Ring', members=[Member(uniqueId=0, name=Frodo Baggins)])
+XCircle(uniqueId=0, name='Ale Lovers', members=[Member(uniqueId=0, name=Frodo Baggins)])

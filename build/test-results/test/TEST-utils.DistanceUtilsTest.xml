@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="utils.DistanceUtilsTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-09-22T12:00:04" hostname="Aleksandrs-MacBook-Pro.local" time="0.003">
+  <properties/>
+  <testcase name="testOutOfBoundsCase1" classname="utils.DistanceUtilsTest" time="0.001"/>
+  <testcase name="testOutOfBoundsCase2" classname="utils.DistanceUtilsTest" time="0.0"/>
+  <testcase name="testSameCoordinateCase" classname="utils.DistanceUtilsTest" time="0.001"/>
+  <testcase name="testCorrectEdgeCase" classname="utils.DistanceUtilsTest" time="0.0"/>
+  <testcase name="testCorrectResult" classname="utils.DistanceUtilsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
